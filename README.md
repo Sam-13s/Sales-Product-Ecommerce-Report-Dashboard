@@ -42,4 +42,4 @@ The dashboard helps identify high-performing products, revenue growth opportunit
 
 🖼️ 6. Screenshots
 
-Screenshot (
+Screenshot (https://github.com/Sam-13s/Sales-Product-Ecommerce-Report-Dashboard/blob/main/Snapshoot-Sales%20Product%20Ecommerce-.png)
